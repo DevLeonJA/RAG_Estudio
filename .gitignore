@@ -1,0 +1,9 @@
+# Ignorar el entorno virtual de Python
+entorno/
+
+# Ignorar las carpetas ocultas del sistema
+.DS_Store
+__pycache__/
+
+# Ignorar tu carpeta de apuntes (opcional, pero recomendado)
+datos/
